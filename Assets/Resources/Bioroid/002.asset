@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e759f9aa1e2c99a41beeb544f3a9509c, type: 3}
+  m_Name: 002
+  m_EditorClassIdentifier: 
+  id: 002
+  name: "\uB77C\uBE44\uC544\uD0C0 \uD504\uB85C\uD1A0\uD0C0\uC785"
+  group: "\uBC30\uD2C0 \uBA54\uC774\uB4DC \uD504\uB85C\uC81D\uD2B8"
+  bioType: 2
+  bioKind: 2
+  bioRank: 0
+  consumed:
+    part: 27
+    nutrition: 27
+    energy: 27
+  state:
+    hp: 3190
+    atk: 957
+    cri: 7.5
+    armor: 298
+    hitrate: 128
+    speed: 3.7
+    avoid: 10
+    experience: 0
+    skillDamage: 0
+    penetrate: 0
+  fullRink: 0
+  rinkBonus:
+    hp: 20
+    atk: 20
+    cri: 0
+    armor: 0
+    hitrate: 0
+    speed: 0
+    avoid: 0
+    experience: 4
+    skillDamage: 2
+    penetrate: 0
+  IsBioroid: 0
